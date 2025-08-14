@@ -5,6 +5,12 @@ The site highlights the novel’s synopsis, themes, and author bio with an engag
 
 ---
 
+## 🔗 View Live Page
+Explore the live version of the landing page here:  
+[**🌊 View The Mirage and The Tide**](https://themirageandthetide-by-ss.netlify.app)  
+
+---
+
 ## 📖 About
 *The Mirage and The Tide* is a debut novel that weaves a tale of fleeting illusions and relentless currents of life.  
 This landing page is designed to:
@@ -36,3 +42,25 @@ mirage-tide-landing/
 ├── images/ # Book cover, character photo, background assets
 
 └── README.md # Project documentation
+
+
+## 🖥️ Local Setup
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/SameerSingh017/mirage-tide-landing.git
+   cd mirage-tide-landing
+
+or Simply open index.html in your browser.
+
+
+## 📬 Contact
+If you have any questions, collaboration ideas, or opportunities, feel free to reach out:
+Email: sameer0555singh@gmail.com
+
+LinkedIn: Sameer Singh
+
+GitHub: SameerSingh017
+
+
+
+
