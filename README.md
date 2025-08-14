@@ -55,12 +55,6 @@ or Simply open index.html in your browser.
 
 ## 📬 Contact
 If you have any questions, collaboration ideas, or opportunities, feel free to reach out:
-Email: sameer0555singh@gmail.com
-
-LinkedIn: Sameer Singh
-
-GitHub: SameerSingh017
-
-
-
+### 📧 Email: sameer0555singh@gmail.com
+### 👨‍💻 Author: Sameer Singh
 
