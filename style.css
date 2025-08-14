@@ -255,7 +255,7 @@ img {
 }
 
 .card {
-  grid-column: span 6;
+  grid-column: span 12;
   background: #15151a;
   border: 1px solid #272733;
   border-radius: 16px;
@@ -418,3 +418,4 @@ input:focus, textarea:focus {
  
   text-align: center;
 }
+
